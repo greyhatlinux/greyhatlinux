@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on AWS cloud
 - :black_nib: Read my blogs at [Medium](https://medium.com/@greyhatlinux)
 - 💬 Ask me about Cloud and Security 
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/greyhatlinux)
+- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/greyhatlinux)
 
 
 <!--
