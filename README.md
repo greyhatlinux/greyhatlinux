@@ -1,6 +1,6 @@
 ### Hello from 👋
 
-![banner](img/banner.png)
+![banner](https://github.com/greyhatlinux/greyhatlinux/blob/master/img/banner.png)
 
 - 🔭 I’m currently working on AWS cloud
 - :black_nib: Read my blogs at [Medium](https://medium.com/@greyhatlinux)
