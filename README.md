@@ -1,10 +1,12 @@
 ### Hello from 👋
 
-![picture](img/banner.png)
+![banner](https://github.com/greyhatlinux/greyhatlinux/tree/master/img/banner.png)
 
 - 🔭 I’m currently working on AWS cloud
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/greyhatlinux)
+- :black_nib: Read my blogs at [Medium](https://medium.com/@greyhatlinux)
 - 💬 Ask me about Cloud and Security 
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/greyhatlinux)
+
 
 <!--
 **greyhatlinux/greyhatlinux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
