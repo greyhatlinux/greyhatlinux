@@ -3,8 +3,8 @@
 ![banner](https://github.com/greyhatlinux/greyhatlinux/blob/master/img/banner.png)
 
 - 🔭 I’m currently working on AWS cloud
-- :black_nib: Read my blogs at [Medium](https://medium.com/@greyhatlinux)
-- 💬 Ask me about Cloud and Security 
+- 💬 Ask me about Linux, Data Structures, Algorithms, and whatsoever 
+- ✒️ Read my blogs at [Medium](https://medium.com/@greyhatlinux)
 - 📫 Reach me at: [LinkedIn](https://linkedin.com/in/greyhatlinux)
 
 
